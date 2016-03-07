@@ -368,6 +368,7 @@ MonoBehaviour:
   mFloatSpacingX: 0
   mFloatSpacingY: 0
   mOverflowEllipsis: 0
+  mOverflowWidth: 0
   mShrinkToFit: 0
   mMaxLineWidth: 0
   mMaxLineHeight: 0
@@ -930,6 +931,7 @@ MonoBehaviour:
   eventReceiverMask:
     serializedVersion: 2
     m_Bits: 4294967295
+  processEventsIn: 0
   debug: 0
   useMouse: 1
   useTouch: 1

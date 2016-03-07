@@ -35,6 +35,12 @@ MonoBehaviour:
     boolVariables: []
     stringVariables:
     - useVariable: 1
+      name: CityName
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 
+    - useVariable: 1
       name: CurrentPlayerHealthString
       tooltip: 
       showInInspector: 0
